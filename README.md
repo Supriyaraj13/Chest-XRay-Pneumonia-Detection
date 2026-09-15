@@ -11,7 +11,7 @@ The project compares a custom CNN with **MobileNetV2** and **ResNet50**, followe
 🌐 Live Demo
 
 🚀 Try the Streamlit Application:
-
+https://chest-xray-pneumonia-detection.streamlit.app/
 
 
 ---
